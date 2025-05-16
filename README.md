@@ -1,0 +1,1 @@
+House price prediction using machine learning is the process of estimating a property's potential selling price by analyzing various influencing factors and employing machine learning algorithms. This method aims to provide more accurate and efficient predictions compared to traditional statistical methods and local expertise. 
